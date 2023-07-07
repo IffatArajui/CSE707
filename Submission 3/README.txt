@@ -3,7 +3,7 @@ https://youtu.be/-wwGNRUMVmc
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/IffatArajui/CSE707-Submission3/blob/main/Concept%20Map.pdf
+https://github.com/IffatArajui/CSE707/blob/main/Submission%203/Concept%20Map.pdf
 
 Native/original format: 
 https://drive.google.com/file/d/1pTx31ygcTq6OLONAehLfHDtUExGENFGM/view?usp=sharing
